@@ -3,7 +3,7 @@
 
 ## Part 0
 
-[Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
+https://drive.google.com/drive/folders/1uzqOrJ1IP6e0QPQdg3IOnHtwXseVWGuJ?usp=drive_lin
 
 ## Part1
 
