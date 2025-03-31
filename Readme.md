@@ -1,6 +1,6 @@
 
 # Mission 3
-## Ссылка на скринкаст (в процессе записи):
+## Ссылка на папку со скринкастами и ссылками для копирования в Buildship :
 https://drive.google.com/drive/folders/1vWoMIYMde0yoqpkrtIPX6Nms2zDL7Ayl?usp=sharing
 
 ## SQL Queries
