@@ -2,7 +2,7 @@
 # Mission 3
 ## SQL Queries
 
-### Запрос 1
+### Запрос 1 - получить список юзернеймов пользователей
 ```
 SELECT 
     username 
@@ -10,7 +10,9 @@ FROM
     users;
 ```
 
-### Запрос 2
+### Запрос 2 - получить кол-во отправленных сообщений каждым пользователем:
+    
+    username - number of sent messages
 ```
 SELECT 
     u.username,
@@ -25,7 +27,9 @@ GROUP BY
     u.username;`
 ```    
 
-### Запрос 3
+### Запрос 3 - получить пользователя с самым большим кол-вом полученных сообщений и само количество
+    
+    username - number of received messages
 ```
 SELECT 
     u.username,
@@ -41,7 +45,7 @@ ORDER BY
 LIMIT 1;
 ```
 
-### Запрос 4
+### Запрос 4 - получить среднее кол-во сообщений, отправленное каждым пользователем
 ```
     SELECT 
     AVG(message_count) AS "average messages per user"
