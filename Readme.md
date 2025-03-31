@@ -1,5 +1,8 @@
 
 # Mission 3
+## Ссылка на скринкаст (в процессе записи):
+https://drive.google.com/drive/folders/1vWoMIYMde0yoqpkrtIPX6Nms2zDL7Ayl?usp=sharing
+
 ## SQL Queries
 
 ### Запрос 1 - получить список юзернеймов пользователей
